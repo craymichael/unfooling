@@ -23,6 +23,14 @@ pip install -r requirements.txt
 ```
 
 ## Run Instructions
+The approach can be run via the Jupyter Notebook `run.ipynb`. Jupyter Notebook is
+listed as a requirement and should be installed already. If you're in a virtual
+environment, ensure that you have generated a kernel for the environment. If you
+don't know what this mean, [read this](https://janakiev.com/blog/jupyter-virtual-envs/).
+
+```shell
+jupyter notebook run.ipynb
+```
 
 ## How to Cite This Work
 
