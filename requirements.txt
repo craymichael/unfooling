@@ -1,0 +1,30 @@
+certifi
+cycler
+decorator
+imageio
+joblib
+kiwisolver
+lime
+matplotlib
+networkx
+numpy
+pandas
+Pillow
+pyparsing
+python-dateutil
+pytz
+PyWavelets
+scikit-image
+scikit-learn
+scipy
+shap
+six
+tqdm
+seaborn
+statsmodels
+pyyaml
+notebook
+ipython
+
+# https://github.com/remykarem/mixed-naive-bayes
+# mixed-naive-bayes  # optional
